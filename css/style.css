@@ -55,6 +55,7 @@ h3 {
     display: inline-block;
     width: 300px;
     border-radius: 8%;
+    vertical-align: middle;
 }
 
 ul {
